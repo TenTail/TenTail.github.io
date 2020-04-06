@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://tentail.github.io
 root: /
 permalink: :category/:uri/
 permalink_defaults:
@@ -108,3 +108,6 @@ neat_enable: true
 neat_html:
   enable: true
   exclude:
+
+neat_js:
+  enable: false
