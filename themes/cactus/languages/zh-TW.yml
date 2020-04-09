@@ -1,6 +1,6 @@
 nav:
   home: 首頁
-  about: 關於
+  about: 關於我
   articles: 文章
   tag: 標籤
   category: 分類
@@ -23,7 +23,7 @@ post:
   desktop:
     previous: 上一篇
     next: 下一篇
-    back_to_top: 回到頁首
+    back_to_top: 回頁首
     share: 分享
   mobile:
     menu: 選單
