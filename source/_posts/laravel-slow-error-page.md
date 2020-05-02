@@ -8,7 +8,7 @@ tags:
 - Laravel
 ---
 
-> 在 Laravel 7 此問題應該已經不存在，Ignition 在 "^2.0" 已經將預設將 `collect_git_information` 設定為 `false` 了。
+> 在 Laravel 7 此問題應該已經不存在，Ignition 在 "^2.0" 已經預設將 `collect_git_information` 設定為 `false` 了。
 
 在 Laravel 6 迎來了全新的錯誤頁面，該錯誤頁面所使用的套件是 Ignition (GitHub: [facade/ignition](https://github.com/facade/ignition))。
 
